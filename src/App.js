@@ -64,7 +64,7 @@ function App() {
             </form>
             <footer>
               <p>
-                Ainda não tem uma conta? <a>Inscreva-se</a>
+                Ainda não tem uma conta? <span>Inscreva-se</span>
               </p>
             </footer>
           </main>
