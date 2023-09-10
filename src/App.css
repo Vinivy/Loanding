@@ -110,6 +110,7 @@ button {
 
   border-radius: 4px;
   background: #7C3AED;
+  border: 1px solid #000000;
 }
 
 a {
