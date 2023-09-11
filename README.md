@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto de Tela de Login com Validação em Tempo Real
 
 <p>Este é um projeto de tela de login simples desenvolvido com o objetivo de melhorar as habilidades de programação interativa. A tela de login é uma parte comum em muitos aplicativos e sites, e criar uma versão funcional com validação em tempo real pode ser um ótimo exercício para aprimorar suas habilidades de codificação.</p>
@@ -12,3 +13,6 @@ Feedback Visual: Os usuários recebem feedback visual sobre o sucesso ou falha d
 # Licença
 
 Este projeto é licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
+=======
+
+>>>>>>> b3d581c373776bec76d8978baf2848dc409a223c
